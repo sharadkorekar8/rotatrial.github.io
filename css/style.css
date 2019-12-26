@@ -76,7 +76,7 @@ a:hover {
 
 #breadcrumb {
 	background-color: #1BBD36;
-	margin-top: -20px;
+	margin-top: 0px;
 }
 
 .breadcrumb {
@@ -88,7 +88,7 @@ a:hover {
 
 .breadcrumb li {
    text-transform:uppercase;
-   margin-top:125px;
+   margin-top:100px;
    font-weight:600;
 }
 
